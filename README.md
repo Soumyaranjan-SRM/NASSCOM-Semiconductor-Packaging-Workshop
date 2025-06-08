@@ -50,11 +50,11 @@ Module-3.5: analyze the number of mesh nodes generated
 ![image](https://github.com/user-attachments/assets/114b49a6-3995-4f55-8912-9ee198aa7fc1)
 Module-3.6: Addition of analysis setup
 ![image](https://github.com/user-attachments/assets/07af220f-b956-4c36-bcf5-c96e1471e25b)
-Module-3.8: Validate all and plot over field only on the surface
+Module-3.7: Validate all and plot over field only on the surface
 ![image](https://github.com/user-attachments/assets/ce39caa8-5beb-4acf-bb15-62a1cf40c212)
-Module-3.7: Enable guassian
+Module-3.8: Enable guassian
 ![image](https://github.com/user-attachments/assets/fad8828c-b026-4b32-88a9-128f3f147a49)
-Module-3.8: obtain the Thermal analysis result
+Module-3.9: obtain the Thermal analysis result
 ![image](https://github.com/user-attachments/assets/0c6e8545-8083-4e1a-b609-45f1855d85e9)
 
 
