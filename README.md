@@ -1,25 +1,40 @@
 # NASSCOM-Semiconductor-Packaging-Workshop
 Document/upload on github
 
-Module-1
+Module-1: Introduction to Semiconductor Packaging and different types of Semiconductor Packaging
+Module-1.1: Introduction to Semiconductor packaging 
 ![image](https://github.com/user-attachments/assets/23b8e160-8b43-4673-b5ef-96f37242e4e0)
+Module-1.2: Packaging and Testing industry
 ![image](https://github.com/user-attachments/assets/e5ac06f5-d843-4c77-ba4f-c4723362169c)
+Module-1.3: course Plan
 ![image](https://github.com/user-attachments/assets/bea2f6b5-acac-4636-8ce3-1830180cc19d)
- ![image](https://github.com/user-attachments/assets/1b11f586-2ebf-4caf-a266-32d96c190f60)
- ![image](https://github.com/user-attachments/assets/d1869df5-9243-4c72-bfd2-89eb76cb6204)
- ![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
- ![image](https://github.com/user-attachments/assets/c379e57d-ad7b-42de-8cd9-65d74fae8393)
- ![image](https://github.com/user-attachments/assets/e849bbdd-9fd7-45d2-b19c-5d1b28588cbb)
- ![image](https://github.com/user-attachments/assets/396241d8-71ef-48b3-bdc5-9dbd3b670d6c)
-Module 2
+Module-1.4: Product Requirements
+![image](https://github.com/user-attachments/assets/1b11f586-2ebf-4caf-a266-32d96c190f60)
+Module-1.5: Typical package structure
+![image](https://github.com/user-attachments/assets/d1869df5-9243-4c72-bfd2-89eb76cb6204)
+Module-1.6: Anatomy of Packages (Different types of Packages)
+![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
+Module-1.7: Semiconductor Packages Classifications
+![image](https://github.com/user-attachments/assets/c379e57d-ad7b-42de-8cd9-65d74fae8393)
+Module-1.8: Summary: Nomenclature of Packages
+![image](https://github.com/user-attachments/assets/e849bbdd-9fd7-45d2-b19c-5d1b28588cbb)
+Module-1.9: Compartive analysis of different types of Packages
+![image](https://github.com/user-attachments/assets/396241d8-71ef-48b3-bdc5-9dbd3b670d6c)
+Module-2: Process flow of semiconductor Packaging: From Silicon wafer to complete Package
+Module-2.1: Review of the Supply Chain
 ![image](https://github.com/user-attachments/assets/9def4810-f885-4a23-baf3-57c7076ef3e6)
+Module-2.2: Wafer Preparation
 ![image](https://github.com/user-attachments/assets/375aceb0-54a2-4b51-a75e-70bd9bf3cdae)
+Module-2.3: Dieattach, curing, Wire Bonding, Mould component
 ![image](https://github.com/user-attachments/assets/ea76d4fe-edb3-4d1d-ad4c-1cc16ed76c79)
+Module-2.4: Flip Cgip Ball grid Array Packaging
 ![image](https://github.com/user-attachments/assets/d453cb05-347b-415c-807a-ccafb2381cc0)
+Module-2.5: Fan-out wafer Level Package
 ![image](https://github.com/user-attachments/assets/d2218033-36f7-41b5-9149-3518fbdf11fd)
+Module-2.6:
 ![image](https://github.com/user-attachments/assets/b9913b8b-eb84-4c96-ab80-8633fd113e40)
 ![image](https://github.com/user-attachments/assets/6880177f-1e69-4c3a-a01c-32ae380fb391)
-Module-3
+Module-3:  Thermal Analysis of Semiconductor Packages Using ANSYS
 ![image](https://github.com/user-attachments/assets/1f878195-391b-4841-a90d-af2b1e02abdc)
 ![image](https://github.com/user-attachments/assets/50f50c60-9fa4-4de2-8d59-85034ef36ff0)
 ![image](https://github.com/user-attachments/assets/6c55cd14-2969-446d-a1b4-1ff1f7406644)
