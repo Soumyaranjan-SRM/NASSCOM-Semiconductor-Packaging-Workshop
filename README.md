@@ -72,7 +72,8 @@ Module-4.5: Final Test
 ![image](https://github.com/user-attachments/assets/bce0aaa8-e315-4074-ab94-74c869db4825)
 Module-4.6: Summary
 ![image](https://github.com/user-attachments/assets/53af1123-b849-4393-856e-390553388928)
-Module 5
+
+Module 5: Package Design and Modeling Building Semicondcutor from Scratch
 
 Module 5.1: Open Maxwell 3d modeller 
 ![image](https://github.com/user-attachments/assets/304ad356-5158-444e-b931-2c09af07d1ca)
