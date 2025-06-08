@@ -73,6 +73,7 @@ Module-4.5: Final Test
 Module-4.6: Summary
 ![image](https://github.com/user-attachments/assets/53af1123-b849-4393-856e-390553388928)
 Module 5
+
 Module 5.1: Open Maxwell 3d modeller 
 ![image](https://github.com/user-attachments/assets/304ad356-5158-444e-b931-2c09af07d1ca)
 Module 5.2: Create a die
@@ -165,7 +166,7 @@ Module 5.17: OUTPUT of the design
 
 
 
-MODULE-4
+
  
  
  
