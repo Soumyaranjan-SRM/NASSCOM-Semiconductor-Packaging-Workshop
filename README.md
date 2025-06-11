@@ -289,12 +289,14 @@ The reconstituted wafer is then diced (singulated) into individual fully package
 
 Module-2.7: After Cleanroom Area Process
 ![image](https://github.com/user-attachments/assets/6880177f-1e69-4c3a-a01c-32ae380fb391)
+
 Module-3:  Thermal Analysis of Semiconductor Packages Using ANSYS
 
 Module-3.1: Launching ICEpack design module
 
 Launch ICEpack design module by selecting the ICEpack design
 ![image](https://github.com/user-attachments/assets/1f878195-391b-4841-a90d-af2b1e02abdc)
+
 select Toolkit-Geometry-Packages-Flipchip_BGA
 ![image](https://github.com/user-attachments/assets/45000761-8224-4488-977b-5d6d50ed54c6)
 
