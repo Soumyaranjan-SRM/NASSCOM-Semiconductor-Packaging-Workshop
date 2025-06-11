@@ -193,6 +193,23 @@ Warehouse & Logistics
 Final storage and inventory management of fully packaged ICs prior to shipping.
 ![image](https://github.com/user-attachments/assets/375aceb0-54a2-4b51-a75e-70bd9bf3cdae)
 Module-2.3: Wafer Preparation
+
+This section outlines the key stages of wafer preparation conducted in a controlled ISO Class 7 cleanroom environment within an ATMP (Assembly, Testing, Marking, and Packaging) facility.
+Receiving and Handling – Wafer Carrier
+Incoming wafers are delivered in specialized protective carriers, designed to prevent contamination and physical damage before entering the production line.
+Initial Wafer Inspection
+A thorough visual and optical inspection is carried out to detect surface irregularities, foreign particles, or mechanical defects that could affect downstream processes.
+Front-Side Tape Lamination
+A protective film is applied to the front side (device layer) of the wafer to safeguard delicate circuits during back grinding and dicing steps.
+Back Grinding (Thinning)
+The wafer’s back surface is carefully ground using a rotating abrasive wheel to reduce its thickness—from roughly 700 μm down to around 200 μm. This enhances thermal performance, mechanical flexibility, and facilitates final package integration.
+Mounting on Dicing Frame
+Post-grinding, the wafer is affixed to a ring frame with adhesive tape on the back. This ensures stability and die retention during the dicing process.
+Precision Dicing – Two-Step Method
+Laser Grooving
+A laser beam etches grooves along the scribe lines, weakening the wafer structure at precise locations to prepare it for clean separation.
+Blade Dicing
+A fine diamond blade then cuts through the wafer along the pre-grooved lines, separating it into individual die units for packaging.
 ![image](https://github.com/user-attachments/assets/ea76d4fe-edb3-4d1d-ad4c-1cc16ed76c79)
 Module-2.4: Dieattach, curing, Wire Bonding, Mould component
 ![image](https://github.com/user-attachments/assets/d453cb05-347b-415c-807a-ccafb2381cc0)
