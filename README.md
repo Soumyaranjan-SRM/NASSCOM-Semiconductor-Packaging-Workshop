@@ -431,9 +431,37 @@ Module-4.6: Summary
 
 Module 5: Package Design and Modeling Building Semicondcutor from Scratch
 
-Module 5.1: Open Maxwell 3d modeller 
+The primary aim of this lab exercise is to construct a full cross-sectional representation of a wire bond semiconductor package. The exercise focuses on structural modeling, including placement and geometry of the die, substrate, bonding wires, and encapsulating mold compound. No simulations or performance analyses are involved in this task.
+
+Package Component Specifications
+Component	Properties
+1. Die	Material: Silicon
+Dimensions: 3 mm × 3 mm
+Height: 200 µm
+2. Substrate	Material: FR4
+Dimensions: 5 mm × 5 mm
+Thickness: 500 µm
+3. Die Attach Layer	Material: Modified Epoxy
+Area: 3 mm × 3 mm
+Thickness: 100 µm
+4. Die Bond Pads	Material: Copper
+Size per pad: 0.2 mm × 0.2 mm
+Thickness: 5 µm
+5. Substrate Bond Pads	Material: Copper
+Size per pad: 0.2 mm × 0.2 mm
+Thickness: 10 µm
+6. Bond Wires	Material: Gold
+Type: JEDEC 4-point configuration
+7. Mold Compound	Material: Epoxy
+Encapsulation Thickness: 1.2 mm
+
+Module 5.1: Open Maxwell 3d modeller
+Load the Maxwell 3d modeller by selecting Q3D option
 ![image](https://github.com/user-attachments/assets/304ad356-5158-444e-b931-2c09af07d1ca)
 Module 5.2: Create a die
+
+To begin, select the rectangle tool from the ribbon or navigate through the menu via Draw → Rectangle, and create a rectangle with one corner positioned at the origin (0, 0, 0) and dimensions of 3 mm × 3 mm. Once the rectangle is drawn, double-click on CreateRectangle Model → Rectangle1 to open its Properties Dialog box. Next, select Model → Rectangle1, then from the menu bar, go to Modeler → Surface → Thicken Sheet... and set the thickness to 200 microns (0.2 mm) to give the shape its 3D volume. To assign material properties, open the Properties Dialog again by double-clicking Model → Rectangle1, rename the geometry to Die, and assign Silicon as the material by selecting it from the Material Library.
+
 ![image](https://github.com/user-attachments/assets/c6fc2e26-883f-4b19-aeab-ae6b390f9d6c)
 Module 5.3: Thicken the die to 0.2 mm 
 ![image](https://github.com/user-attachments/assets/27c95422-7ebd-49c2-9db6-e92a96d05065)
