@@ -328,10 +328,28 @@ Module-3.6: Addition of analysis setup
 Under Project Manager, right click on Analysis and then, select Add Analysis Setup and configure the solver settings as required (default properties for this lab)
 ![image](https://github.com/user-attachments/assets/07af220f-b956-4c36-bcf5-c96e1471e25b)
 Module-3.7: Validate all and plot over field only on the surface
+
+Click on the Validate button in the top ribbon.Ensure all checks are validated successfully
+
+![image](https://github.com/user-attachments/assets/dd8bf5d8-29f9-4f45-a6bb-8983bc7ddc95)
+
+Click on Analyze All button in the top ribbon
+Wait for the simulation to get completed successfully. Take note of any warning(s) or errors that may need further debug or setup modification(s).
+Once the simulation is completed, select the complete FC-BGA package in the 3D view by drawing a selection rectangle using the left-mouse button.
+Right click and then select Plot Fields -> Temperature -> Temperature
+
 ![image](https://github.com/user-attachments/assets/ce39caa8-5beb-4acf-bb15-62a1cf40c212)
 Module-3.8: Enable guassian
+
+Configure the different plot options:
+Specify Name, Folder
+Plot on Surface only
+Surface Smoothing -> Enable Gaussian Smoothing
+
 ![image](https://github.com/user-attachments/assets/fad8828c-b026-4b32-88a9-128f3f147a49)
 Module-3.9: obtain the Thermal analysis result
+The thermal analysis result will be displayed as image below
+
 ![image](https://github.com/user-attachments/assets/0c6e8545-8083-4e1a-b609-45f1855d85e9)
 
 
