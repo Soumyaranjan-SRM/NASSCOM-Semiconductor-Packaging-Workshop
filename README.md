@@ -170,6 +170,7 @@ Module-2.1: Review of the Supply Chain
 ![image](https://github.com/user-attachments/assets/9def4810-f885-4a23-baf3-57c7076ef3e6)
 Module-2.2: Material Preparation and storage
 ATMP: Assembly, Testing, Marking, and Packaging
+
 The ATMP process encompasses four primary functions—Assembly, Testing, Marking, and Packaging—that transform fabricated wafers into finished, ready-to-ship semiconductor components.
 ATMP operations may be performed by:
 OSAT (Outsourced Semiconductor Assembly and Test) providers such as ASE, Amkor, and TATA, or
