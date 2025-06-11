@@ -169,6 +169,27 @@ Examples: OEMs Original Equipment Manufacturer (Apple, Cisco), ODMs Original Des
 Module-2.1: Review of the Supply Chain
 ![image](https://github.com/user-attachments/assets/9def4810-f885-4a23-baf3-57c7076ef3e6)
 Module-2.2: Material Preparation and storage
+ATMP: Assembly, Testing, Marking, and Packaging
+The ATMP process encompasses four primary functions—Assembly, Testing, Marking, and Packaging—that transform fabricated wafers into finished, ready-to-ship semiconductor components.
+ATMP operations may be performed by:
+OSAT (Outsourced Semiconductor Assembly and Test) providers such as ASE, Amkor, and TATA, or
+In-house facilities operated by IDMs (e.g., Intel, Samsung, Micron) and foundries (e.g., TSMC, Samsung Foundry).
+Key ATMP Process Zones
+Material Preparation & Storage
+Handling and storage of incoming wafers, substrates, leadframes, mold compounds, and other consumables.
+Processing Zone (Cleanroom Environment: ISO Class 6/7)
+Core assembly operations typically performed in a cleanroom setting:
+Die attach and die mount
+Wire bonding or flip-chip bonding
+Redistribution Layer (RDL) formation
+Encapsulation or molding for protection
+Testing Area
+Functional and reliability testing of packaged chips:
+Electrical tests to verify performance
+Burn-in testing to identify early-life failures
+Reliability chamber testing for environmental stress validation
+Warehouse & Logistics
+Final storage and inventory management of fully packaged ICs prior to shipping.
 ![image](https://github.com/user-attachments/assets/375aceb0-54a2-4b51-a75e-70bd9bf3cdae)
 Module-2.3: Wafer Preparation
 ![image](https://github.com/user-attachments/assets/ea76d4fe-edb3-4d1d-ad4c-1cc16ed76c79)
