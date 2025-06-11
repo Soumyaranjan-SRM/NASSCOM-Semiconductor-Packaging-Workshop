@@ -3,6 +3,7 @@ Document/upload on github
 
 Module-1: Introduction to Semiconductor Packaging and different types of Semiconductor Packaging
 Module-1.1: Introduction to Semiconductor packaging 
+
 Semiconductor packaging is the concluding step in the manufacturing process of semiconductor devices. During this stage, the completed silicon die is enclosed within a durable package that safeguards it and enables its integration into electronic products. This step is essential for converting the delicate, lab-produced silicon chip into a form that can function reliably in practical, real-world applications.
 Main Roles of Semiconductor Packaging
 Environmental Shielding
