@@ -213,6 +213,26 @@ Blade Dicing
 A fine diamond blade then cuts through the wafer along the pre-grooved lines, separating it into individual die units for packaging.
 ![image](https://github.com/user-attachments/assets/ea76d4fe-edb3-4d1d-ad4c-1cc16ed76c79)
 Module-2.4: Dieattach, curing, Wire Bonding, Mould component
+
+1. Die Attach
+The individual semiconductor die is affixed to a substrate or lead frame using epoxy adhesive.
+1.1 Epoxy is dispensed in a specific pattern over the target area to minimize void formation, with a trade-off between pattern complexity and process speed.
+1.2 A pick-up tool lifts the die,
+1.3 And places it onto the Die Attach Film (DAF).
+2. Curing
+Once attached, the die-substrate assembly undergoes a thermal curing process. This step solidifies the epoxy, creating a durable and reliable mechanical bond.
+3. Wire Bonding
+In this stage, ultra-fine gold or aluminum wires are used to electrically connect the die pads to the substrate contacts. The bonding process involves a combination of thermal and ultrasonic energy.
+3.1 A ball bond is formed using an Electronic Flame-Off (EFO) to melt the wire tip.
+3.2 The ball is pressed onto the die pad using heat and ultrasonic vibration.
+3.3 A looped wire is then extended to the substrate pad.
+3.4 A crescent bond is created at the substrate end to complete the connection.
+4. Molding (Transfer Molding)
+The die and wire bonds are encapsulated using a mold compound (typically resin). This compound is injected to flow evenly over the die, offering protection against moisture, contaminants, and mechanical impact.
+5. Marking (Laser)
+A laser marking system inscribes product identification, batch numbers, or brand logos onto the surface of the molded package.
+6. Singulation
+Finally, the encapsulated units are separated into individual chips using a high-precision dicing blade. A thin blade is employed to reduce material loss and minimize edge damage during cutting.
 ![image](https://github.com/user-attachments/assets/d453cb05-347b-415c-807a-ccafb2381cc0)
 Module-2.5: Flip Chip Ball grid Array Packaging
 ![image](https://github.com/user-attachments/assets/d2218033-36f7-41b5-9149-3518fbdf11fd)
