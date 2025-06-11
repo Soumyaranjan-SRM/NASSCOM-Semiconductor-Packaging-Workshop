@@ -264,6 +264,12 @@ Solder balls are placed onto the substrate’s bottom side, forming the external
 A final reflow process ensures these balls are securely attached, completing the packaging cycle.
 ![image](https://github.com/user-attachments/assets/d2218033-36f7-41b5-9149-3518fbdf11fd)
 Module-2.6:Fan-out wafer Level Package
+Wafer-Level Packaging refers to a method where packaging is completed while the die is still part of the wafer, prior to dicing. This approach results in smaller form factors, lower packaging costs, and enhanced performance due to shorter interconnect paths.
+Types of WLP:
+Fan-In WLP (FI-WLP):
+In this method, the die’s I/O pads are rerouted within the original die footprint using Redistribution Layers (RDLs). The solder bumps are confined to the die area, making it suitable for applications with moderate I/O counts and strict space constraints.
+Fan-Out WLP (FO-WLP):
+This technique extends the I/O pads beyond the edges of the die using RDLs. By creating additional space around the die, FO-WLP supports higher I/O densities and allows for larger bump arrays, making it ideal for more complex, high-performance applications.
 ![image](https://github.com/user-attachments/assets/b9913b8b-eb84-4c96-ab80-8633fd113e40)
 Module-2.7: After Cleanroom Area Process
 ![image](https://github.com/user-attachments/assets/6880177f-1e69-4c3a-a01c-32ae380fb391)
