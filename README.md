@@ -235,6 +235,33 @@ A laser marking system inscribes product identification, batch numbers, or brand
 Finally, the encapsulated units are separated into individual chips using a high-precision dicing blade. A thin blade is employed to reduce material loss and minimize edge damage during cutting.
 ![image](https://github.com/user-attachments/assets/d453cb05-347b-415c-807a-ccafb2381cc0)
 Module-2.5: Flip Chip Ball grid Array Packaging
+
+Flip chip packaging improves electrical performance and enables higher I/O density by mounting the semiconductor die face-down onto the substrate, eliminating the need for traditional wire bonding.
+1. Bump Formation on Silicon (Si)
+1.1 Tiny solder bumps are deposited onto the metal contact pads on the die surface.
+1.2 These bumps are then reflowed (melted and solidified) to establish robust electrical and mechanical interconnects.
+2. Chip Placement (Flip and Align)
+2.1 The die is flipped upside down, positioning the bumps toward the substrate.
+2.2 The solder bumps are carefully aligned with the bond pads on the substrate.
+2.3 Flux is applied to the substrate to enhance solder wetting and improve joint quality during reflow.
+3. Solder Reflow
+The assembled unit is subjected to a controlled heating process, causing the solder bumps to melt and form secure joints between the die and the substrate pads.
+4. Flux Cleaning
+Any residual flux left over from reflow is cleaned off using a solvent spray, preventing potential long-term issues such as corrosion or electrical leakage.
+5. Underfill Application
+A liquid underfill material is dispensed between the die and substrate. This helps to:
+Distribute mechanical stress
+Improve thermal conductivity
+Enhance overall reliability
+6. Underfill Curing
+The underfill is then cured with heat, solidifying the material and reinforcing the bond between the die and the substrate.
+7. Encapsulation (Molding)
+A mold compound is applied over the die for mechanical protection and environmental isolation, shielding it from moisture, contaminants, and physical impact.
+8. Laser Marking
+The package is laser-marked with essential information such as part number, lot code, manufacturing date, and traceability identifiers.
+9. Ball Mounting and Final Reflow
+Solder balls are placed onto the substrate’s bottom side, forming the external electrical interface (e.g., for BGA packages).
+A final reflow process ensures these balls are securely attached, completing the packaging cycle.
 ![image](https://github.com/user-attachments/assets/d2218033-36f7-41b5-9149-3518fbdf11fd)
 Module-2.6:Fan-out wafer Level Package
 ![image](https://github.com/user-attachments/assets/b9913b8b-eb84-4c96-ab80-8633fd113e40)
