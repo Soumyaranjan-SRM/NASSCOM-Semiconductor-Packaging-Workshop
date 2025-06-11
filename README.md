@@ -321,9 +321,11 @@ Repeat the same to add thermal monitors for the die and the die-underfill. (imag
 Module-3.5: analyze the number of mesh nodes generated
 
 Click on the Generate Mesh- save file-Meshing will take place.
-Once Meshing is completed analyze the metrics of Meshing like skewness, face alignment, Volume
+Once Meshing is completed look through the metrics of Meshing like skewness, face alignment, Volume.
 ![image](https://github.com/user-attachments/assets/114b49a6-3995-4f55-8912-9ee198aa7fc1)
 Module-3.6: Addition of analysis setup
+
+Under Project Manager, right click on Analysis and then, select Add Analysis Setup and configure the solver settings as required (default properties for this lab)
 ![image](https://github.com/user-attachments/assets/07af220f-b956-4c36-bcf5-c96e1471e25b)
 Module-3.7: Validate all and plot over field only on the surface
 ![image](https://github.com/user-attachments/assets/ce39caa8-5beb-4acf-bb15-62a1cf40c212)
