@@ -28,6 +28,22 @@ Module-1.3: course Plan
 ![image](https://github.com/user-attachments/assets/bea2f6b5-acac-4636-8ce3-1830180cc19d)
 Module-1.4: Product Requirements
 ![image](https://github.com/user-attachments/assets/1b11f586-2ebf-4caf-a266-32d96c190f60)
+Key Factors in Selecting a Semiconductor Package
+Choosing the right semiconductor package involves evaluating several important criteria, typically grouped into the following categories:
+Application-Specific Needs
+The type of die being packaged plays a major role, whether it's for logic or memory applications, or power semiconductor devices.
+Electrical Performance
+Includes the required I/O pin count, signal integrity (especially for high-speed interfaces), and power delivery capabilities.
+Thermal Management
+Focuses on how effectively the package can dissipate heat, and whether it can operate within the target temperature range of the system.
+Mechanical and Physical Constraints
+Factors such as form factor, including footprint and height limitations, must align with system design. Additionally, advanced integration needs—like multi-chip modules (MCMs), system-in-package (SiP), or 2.5D/3D packaging—may influence the choice.
+Cost Efficiency
+Both the cost of the package itself and the associated board or system-level assembly costs must be considered.
+Reliability and Durability
+The package must withstand mechanical stress, thermal cycling, and exposure to moisture or other environmental challenges to ensure long-term performance.
+
+
 Module-1.5: Typical package structure
 ![image](https://github.com/user-attachments/assets/d1869df5-9243-4c72-bfd2-89eb76cb6204)
 Module-1.6: Anatomy of Packages (Different types of Packages)
