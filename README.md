@@ -133,10 +133,12 @@ High Bandwidth Memory (HBM) stacks
 Logic-on-logic integration for increased density and performance
 
 Module-1.9: Compartive analysis of different types of Packages
+
 The table below offers a comparison of different IC packaging types along with their common applications. Choosing the appropriate semiconductor package involves evaluating several factors, including performance requirements, reliability, physical size constraints, and overall cost.
 ![image](https://github.com/user-attachments/assets/396241d8-71ef-48b3-bdc5-9dbd3b670d6c)
 
 Module-2: Process flow of semiconductor Packaging: From Silicon wafer to complete Package
+
 This section covers the semiconductor supply chain and provides a detailed look into a package manufacturing unit (ATMP – Assembly, Testing, Marking, and Packaging).
 2.1 - Semiconductor Supply Chain Overview
 The semiconductor supply chain is a multi-step process that transforms raw silicon into fully functional electronic products. 
