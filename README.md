@@ -99,6 +99,39 @@ On the other hand, wafer-level packaging involves carrying out some or all packa
 ![image](https://github.com/user-attachments/assets/c379e57d-ad7b-42de-8cd9-65d74fae8393)
 Module-1.8: Summary: Nomenclature of Packages
 ![image](https://github.com/user-attachments/assets/e849bbdd-9fd7-45d2-b19c-5d1b28588cbb)
+Redistribution Layer (RDL)
+A Redistribution Layer (RDL) is an additional metal layer applied to the surface of a die or wafer. Its primary purpose is to reposition the original I/O pads, allowing for a more flexible bump layout. This is especially critical for fan-out packaging and wafer-level chip scale packaging (WLCSP).
+Key Applications
+Fan-Out Wafer-Level Packaging (FO-WLP, FO-BGA)
+Panel-Level Packaging (PLP)
+Multi-Die Integration
+System-in-Package (SiP)
+Advantages
+Enables larger bump pitch, facilitating connections from fine-pitch die pads
+Helps minimize overall package dimensions and height
+Supports multi-chip configurations and interconnects on a single carrier
+Interposers
+An interposer is a layer—either passive or active—placed between the die and the main substrate. It acts as an intermediate routing interface, providing enhanced electrical performance, signal routing density, and thermal stability. Interposers are vital in complex packaging schemes such as chiplet integration.
+Common Types
+Silicon
+Organic
+Glass
+Primary Functions
+Manages signal routing among multiple dies (e.g., chiplets)
+Mitigates issues related to thermal expansion mismatches
+Facilitates high-speed inter-die communication
+Types of Interposers
+Passive Interposers: Used solely for routing and vias, with no active components
+Active Interposers: Incorporate functional elements such as power regulation, clock distribution, or even embedded memory
+1.4.3 – 2.5D and 3D Integration Technologies
+2.5D Integration
+In a 2.5D configuration, multiple chips are placed side-by-side on a shared interposer. The interposer handles inter-die communication rather than relying on the package substrate. This method is widely used in high-performance computing (HPC) and AI systems—examples include AMD Instinct GPUs and NVIDIA architectures using HBM.
+3D Integration
+In 3D integration, dies are stacked vertically and connected using Through-Silicon Vias (TSVs). This approach allows for compact and high-bandwidth designs. It’s commonly used in:
+3D NAND flash
+High Bandwidth Memory (HBM) stacks
+Logic-on-logic integration for increased density and performance
+
 Module-1.9: Compartive analysis of different types of Packages
 ![image](https://github.com/user-attachments/assets/396241d8-71ef-48b3-bdc5-9dbd3b670d6c)
 Module-2: Process flow of semiconductor Packaging: From Silicon wafer to complete Package
