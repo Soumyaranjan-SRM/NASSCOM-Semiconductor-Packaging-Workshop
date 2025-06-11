@@ -302,7 +302,7 @@ select Toolkit-Geometry-Packages-Flipchip_BGA
 
 Module-3.2: Analyze the 3-D structure
 
-Analyze the IcePACK Package- no of ball grids, die, substrate, etc.
+Analyze the IcePACK Package- no of ball grids, die, substrate, die underfill etc.
 ![image](https://github.com/user-attachments/assets/50f50c60-9fa4-4de2-8d59-85034ef36ff0)
 Module-3.3: Assign Thermal model for DIE, DIE Attach, Substrate
 ![image](https://github.com/user-attachments/assets/6c55cd14-2969-446d-a1b4-1ff1f7406644)
