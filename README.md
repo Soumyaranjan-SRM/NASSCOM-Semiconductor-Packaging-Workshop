@@ -272,6 +272,19 @@ In this method, the die’s I/O pads are rerouted within the original die footpr
 Fan-Out WLP (FO-WLP):
 This technique extends the I/O pads beyond the edges of the die using RDLs. By creating additional space around the die, FO-WLP supports higher I/O densities and allows for larger bump arrays, making it ideal for more complex, high-performance applications.
 ![image](https://github.com/user-attachments/assets/b9913b8b-eb84-4c96-ab80-8633fd113e40)
+Reconstitution and Wafer-Level Packaging Process
+1. Reconstitution Process
+1.1 The process begins with diced semiconductor wafers, separating them into individual die.
+1.2 Only the known-good die (KGD) are selected and placed onto a temporary carrier with precise spacing and orientation.
+1.3 A molding compound is then applied to encapsulate the die, forming a reconstituted wafer. Once molding is complete, the temporary carrier is removed, resulting in a new wafer-like structure that holds the functional die in place.
+2. Redistribution Layer (RDL) Formation
+2.1 The reconstituted wafer is coated with alternating layers of dielectric and metal, which are then patterned to define interconnect routes.
+2.2 Several RDL layers may be created, using a process similar to metal routing in CMOS front-end fabrication, enabling the redistribution of I/O pads to new positions.
+3. Solder Ball Attachment
+Solder balls are mounted onto the final RDL pad locations, creating the external interface needed for surface mounting on printed circuit boards (PCBs).
+4. Final Marking and Singulation
+Laser marking is performed on each unit to apply identifiers such as part numbers and lot codes.
+The reconstituted wafer is then diced (singulated) into individual fully packaged chips, ready for system-level integration.
 Module-2.7: After Cleanroom Area Process
 ![image](https://github.com/user-attachments/assets/6880177f-1e69-4c3a-a01c-32ae380fb391)
 Module-3:  Thermal Analysis of Semiconductor Packages Using ANSYS
