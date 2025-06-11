@@ -135,7 +135,34 @@ Logic-on-logic integration for increased density and performance
 Module-1.9: Compartive analysis of different types of Packages
 The table below offers a comparison of different IC packaging types along with their common applications. Choosing the appropriate semiconductor package involves evaluating several factors, including performance requirements, reliability, physical size constraints, and overall cost.
 ![image](https://github.com/user-attachments/assets/396241d8-71ef-48b3-bdc5-9dbd3b670d6c)
+
 Module-2: Process flow of semiconductor Packaging: From Silicon wafer to complete Package
+This section covers the semiconductor supply chain and provides a detailed look into a package manufacturing unit (ATMP – Assembly, Testing, Marking, and Packaging).
+2.1 - Semiconductor Supply Chain Overview
+The semiconductor supply chain is a multi-step process that transforms raw silicon into fully functional electronic products. 
+The major steps are:
+Semiconductor Supply Chain Review
+1. Design : Chip design and verification
+Input : Product requirements specification, EDA tools, Foundry PDKs, IPs
+Output : GDSII layout file is taped out to the foundry for mask creation and wafer fabrication. Test programs are also provided by the Design house for Wafer and Package level testing.
+Examples: Nvidia, AMD, MediaTek, Intel, TI, Apple, ARM etc.
+2. Wafer Fabrication (Foundry) : Physical ICs are manufactured onto wafers using photolithography and other processes
+Input : GDSII layout, Silicon wafers, Equipment, Gases, chemicals, Materials
+Output: Processed wafers with patterned dies
+Examples: TSMC, Samsung, Intel, GlobalFoundries
+3. Packaging Assembly & Test : ICs are cut (diced), bonded, encapsulated, and tested
+Input: Test programs, Singulated dies, substrate materials (e.g., ABF, BT resin), solder bumps
+Output: Packaged IC (e.g., BGA, QFN, FCBGA, 2.5D/3D)
+Examples: ASE, Amkor, JCET, Shinko, Ibiden
+4. Board Assembly & Test : Multiple packaged ICs are mounted and board-level validation
+Input: Packaged ICs, test programs, ATE systems
+Output: Qualified ICs, binned by performance. Yield improvement and binning are critical for profitability.
+Examples: ASE, Powertech, Amkor, UTAC
+5. System Integration & Distribution
+Input: Packaged, tested ICs; PCBs; passive components
+Process: SMT assembly, system-level integration, validation
+Output: Complete electronic systems (e.g., smartphones, servers)
+Examples: OEMs Original Equipment Manufacturer (Apple, Cisco), ODMs Original Design Manufacturer (Foxconn, Pegatron), EMS Electronics Manufacturing Services (Flex, Jabil)
 
 Module-2.1: Review of the Supply Chain
 ![image](https://github.com/user-attachments/assets/9def4810-f885-4a23-baf3-57c7076ef3e6)
