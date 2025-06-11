@@ -357,8 +357,44 @@ The thermal analysis result will be displayed as image below
 Module 4: Package testing
 
 Module-4.1: Testing at different stages
+
+Integrated Circuits (ICs) undergo multiple testing stages throughout the manufacturing workflow to verify their functionality, performance, and reliability. These tests are conducted at both the fabrication facilities (foundries) and Outsourced Semiconductor Assembly and Test (OSAT) providers to ensure the final product meets all required specifications.
+
 ![image](https://github.com/user-attachments/assets/72732912-d4b6-4876-9afc-b6b27e8252b3)
 Module-4.2: Package testing
+
+1. Foundry-Level Testing
+a. Front-End Manufacturing (FEOL)
+This stage involves the formation of transistors and other structures on the silicon wafer.
+
+Process tuning is continuously performed to optimize yield, reduce leakage currents (IDDQ), and enhance performance and speed of the devices.
+
+b. Wafer Probe Testing
+
+The completed wafer is placed on a probe station, and a probe card aligns with the bond or bump pads of each die.
+
+An Automated Test Equipment (ATE) system delivers test vectors to each die to assess functionality.
+
+Dies are categorized as pass or fail, often with a visual ink-dot or electronic binning.
+
+2. OSAT-Level Testing (Post-Packaging)
+a. Wafer Sorting
+
+Based on the earlier probe test results, dies are classified and only the functionally sound dies are forwarded for packaging.
+
+b. Package Assembly
+
+The selected good dies are packaged using appropriate packaging technologies.
+
+c. Package-Level Testing
+Conducted in controlled environments such as ISO Class 6 or 7 cleanrooms, this testing phase includes:
+
+AOST (Assembly Open and Short Test): Detects electrical opens and shorts in the package interconnects.
+
+Burn-in Testing: Applies elevated temperature, voltage, and cycling stress to screen out early-life failures and ensure long-term reliability.
+
+Final Electrical Testing: Measures the device’s electrical behavior under various operating conditions, including temperature and voltage extremes, to confirm it matches datasheet specifications.
+
 ![image](https://github.com/user-attachments/assets/c5ca1be1-a578-418f-a47c-551d83a08093)
 Module-4.3: Assembly Open and Short Test
 ![image](https://github.com/user-attachments/assets/37b57122-bd24-4344-8d42-4b7a207b6a9b)
