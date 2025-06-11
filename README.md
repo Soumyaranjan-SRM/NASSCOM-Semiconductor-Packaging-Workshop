@@ -23,6 +23,7 @@ The diagram below (not shown here) outlines how these processes relate to differ
 ![image](https://github.com/user-attachments/assets/e5ac06f5-d843-4c77-ba4f-c4723362169c)
 Companies like Nvidia, Qualcomm and Apple that only design semiconductors are called “fabless.”
 Products designed by fabless companies are made into wafers, and the facilities that produce these wafers are called “foundries.” Global companies with these facilities include TSMC, Global Foundries and UMC.Then, there are companies that test and package products that were designed by fabless vendors and, later, made into wafers at foundries. These are called OSAT (Out-Sourced Assembly and Test) which include companies such as ASE and Amkor.Finally, there are the companies that do everything from design, wafer production, and packaging, to testing. These companies are called IDMs (Integrated Device Manufacturer).
+
 Module-1.3: course Plan
 ![image](https://github.com/user-attachments/assets/bea2f6b5-acac-4636-8ce3-1830180cc19d)
 Module-1.4: Product Requirements
