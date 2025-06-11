@@ -348,6 +348,7 @@ Surface Smoothing -> Enable Gaussian Smoothing
 
 ![image](https://github.com/user-attachments/assets/fad8828c-b026-4b32-88a9-128f3f147a49)
 Module-3.9: obtain the Thermal analysis result
+
 The thermal analysis result will be displayed as image below
 
 ![image](https://github.com/user-attachments/assets/0c6e8545-8083-4e1a-b609-45f1855d85e9)
