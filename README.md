@@ -264,6 +264,7 @@ Solder balls are placed onto the substrate’s bottom side, forming the external
 A final reflow process ensures these balls are securely attached, completing the packaging cycle.
 ![image](https://github.com/user-attachments/assets/d2218033-36f7-41b5-9149-3518fbdf11fd)
 Module-2.6:Fan-out wafer Level Package
+
 Wafer-Level Packaging refers to a method where packaging is completed while the die is still part of the wafer, prior to dicing. This approach results in smaller form factors, lower packaging costs, and enhanced performance due to shorter interconnect paths.
 Types of WLP:
 Fan-In WLP (FI-WLP):
