@@ -85,6 +85,7 @@ SiP (System-in-Package) – Integrates various components into one package (e.g.
 CoWoS (Chip-on-Wafer-on-Substrate) – A high-performance interposer-based approach (e.g., Nvidia GP100, GV100, GA100).
 
 Module-1.6: Anatomy of Packages (Different types of Packages)
+
 The below figure shows the anatomy of some of the commonly used leadframe and laminate based packages and advanced substrates:
 ![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
 Module-1.7: Semiconductor Packages Classifications
