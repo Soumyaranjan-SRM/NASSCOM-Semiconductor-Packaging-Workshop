@@ -89,6 +89,12 @@ Module-1.6: Anatomy of Packages (Different types of Packages)
 The below figure shows the anatomy of some of the commonly used leadframe and laminate based packages and advanced substrates:
 ![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
 Module-1.7: Semiconductor Packages Classifications
+Classification of Semiconductor Packages
+Semiconductor packages are generally divided into two broad categories:
+Conventional Packaging
+Wafer-Level Packaging (WLP)
+In conventional packaging, the process begins by dicing the wafer—cutting it into individual chips. Each die is then packaged separately in subsequent steps.
+On the other hand, wafer-level packaging involves carrying out some or all packaging operations directly on the wafer before it is diced. This allows for a more compact form factor and can enhance manufacturing efficiency by enabling batch processing of multiple dies simultaneously.
 ![image](https://github.com/user-attachments/assets/c379e57d-ad7b-42de-8cd9-65d74fae8393)
 Module-1.8: Summary: Nomenclature of Packages
 ![image](https://github.com/user-attachments/assets/e849bbdd-9fd7-45d2-b19c-5d1b28588cbb)
