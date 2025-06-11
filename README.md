@@ -305,6 +305,8 @@ Module-3.2: Analyze the 3-D structure
 Analyze the IcePACK Package- no of ball grids, die, substrate, die underfill etc.
 ![image](https://github.com/user-attachments/assets/50f50c60-9fa4-4de2-8d59-85034ef36ff0)
 Module-3.3: Assign Thermal model for DIE, DIE Attach, Substrate
+
+In "Project Manager" sub-window, expand Thermal section and open the BGA1_die_source and configure the thermal condition as shown in the image attached below
 ![image](https://github.com/user-attachments/assets/6c55cd14-2969-446d-a1b4-1ff1f7406644)
 Module-3.4: Assign Temperature monitor for DIE, Substrate, DIE-Attach
 ![image](https://github.com/user-attachments/assets/a188ad1d-ab30-4cbf-9afe-30fd8d57660a)
