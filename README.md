@@ -43,9 +43,12 @@ Both the cost of the package itself and the associated board or system-level ass
 Reliability and Durability
 The package must withstand mechanical stress, thermal cycling, and exposure to moisture or other environmental challenges to ensure long-term performance.
 
-Module-1.5: Typical package structure
+Module-1.5: 
+Typical package structure
+
 The following figure below shows the structure of a typical chip package
 ![image](https://github.com/user-attachments/assets/d1869df5-9243-4c72-bfd2-89eb76cb6204)
+
 An IC package is made up of several essential components, each serving a critical function:
 Die
 The core semiconductor chip that contains the integrated circuitry.
