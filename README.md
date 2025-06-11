@@ -285,6 +285,7 @@ Solder balls are mounted onto the final RDL pad locations, creating the external
 4. Final Marking and Singulation
 Laser marking is performed on each unit to apply identifiers such as part numbers and lot codes.
 The reconstituted wafer is then diced (singulated) into individual fully packaged chips, ready for system-level integration.
+
 Module-2.7: After Cleanroom Area Process
 ![image](https://github.com/user-attachments/assets/6880177f-1e69-4c3a-a01c-32ae380fb391)
 Module-3:  Thermal Analysis of Semiconductor Packages Using ANSYS
