@@ -458,40 +458,78 @@ Encapsulation Thickness: 1.2 mm
 Module 5.1: Open Maxwell 3d modeller
 Load the Maxwell 3d modeller by selecting Q3D option
 ![image](https://github.com/user-attachments/assets/304ad356-5158-444e-b931-2c09af07d1ca)
+
 Module 5.2: Create a die
 
-To begin, select the rectangle tool from the ribbon or navigate through the menu via Draw → Rectangle, and create a rectangle with one corner positioned at the origin (0, 0, 0) and dimensions of 3 mm × 3 mm. Once the rectangle is drawn, double-click on CreateRectangle Model → Rectangle1 to open its Properties Dialog box. Next, select Model → Rectangle1, then from the menu bar, go to Modeler → Surface → Thicken Sheet... and set the thickness to 200 microns (0.2 mm) to give the shape its 3D volume. To assign material properties, open the Properties Dialog again by double-clicking Model → Rectangle1, rename the geometry to Die, and assign Silicon as the material by selecting it from the Material Library.
+To begin, select the rectangle tool from the ribbon or navigate through the menu via Draw → Rectangle, and create a rectangle with one corner positioned at the origin (0, 0, 0) and dimensions of 3 mm × 3 mm. Once the rectangle is drawn, double-click on CreateRectangle Model → Rectangle1 to open its Properties Dialog box. Next, select Model → Rectangle1, then from the menu bar, go to Modeler → Surface → Thicken Sheet... and set the thickness to 200 microns (0.2 mm) to give the shape its 3D volume. To assign material properties, open the Properties Dialog again by double-clicking Model → Rectangle1, rename the geometry to Die, and assign Silicon as the material by selecting it from the Material Library. (Step wise image are presented below)
 
 ![image](https://github.com/user-attachments/assets/c6fc2e26-883f-4b19-aeab-ae6b390f9d6c)
-Module 5.3: Thicken the die to 0.2 mm 
+
+Thicken the die to 0.2 mm 
 ![image](https://github.com/user-attachments/assets/27c95422-7ebd-49c2-9db6-e92a96d05065)
-Module 5.4: Assign silicon material
+
+Assign silicon material
 ![image](https://github.com/user-attachments/assets/4bd9c374-5f04-475a-96cc-f25143f18e2d)
-Module 5.5: Create a die substrate
+
+Module 5.3: Create a die substrate
+
+Next, draw a second rectangle to represent the substrate with dimensions of 5 mm × 5 mm, and position it at coordinates (-1, -1, 0) so that the previously created die remains centered above it. Then, apply a thickness of -500 microns (-0.5 mm) using the Modeler → Surface → Thicken Sheet... option; the negative sign ensures that the substrate extends below the die. To properly align it with the die attach layer, adjust the Z-axis position of the substrate to (-1, -1, -0.1 mm), accounting for the 100-micron thickness of the die attach material. (step wise images are provided)
+
 ![image](https://github.com/user-attachments/assets/cd1f7275-ffbf-403c-8b84-c52f9ad81811)
-Module 5.6: Assign material FR4_epoxy
+
+Assign material FR4_epoxy
 ![image](https://github.com/user-attachments/assets/b4df5e86-2b15-4872-9b8a-399d5c9016b4)
-Module 5.7: Create a die underfill
+
+Module 5.4: Create a die underfill
+
+Create a new rectangle with the same dimensions as the die, 3 mm × 3 mm, and place it at the same coordinates (0, 0, 0). Assign a thickness of -100 microns (-0.1 mm) using the Thicken Sheet tool to represent the Die Underfill Material, ensuring it lies beneath the die and above the substrate. Finally, assign Modified Epoxy as the material to this layer through the Material Library. (stepwise images are given below)
+
 ![image](https://github.com/user-attachments/assets/2a92850e-1477-44ab-97d7-2cfa9a06f4f9)
-Module 5.8: Assign thickness to the underfill
+
+Assign thickness to the underfill
 ![image](https://github.com/user-attachments/assets/c75efa17-9216-43bd-87a6-865fb7d9cce6)
-Module 5.9: Assign Material to the underfill as modified epoxy
+
+Assign Material to the underfill as modified epoxy
 ![image](https://github.com/user-attachments/assets/da2f3b80-97a3-4c70-bb5f-ad49eb6afcaf)
-Module 5.10: Create diebondpad
+
+Module 5.5: Create diebondpad
+
+Create a small rectangle with dimensions 0.2 mm × 0.2 mm to represent the first Die Pad. Position it at coordinates (0.2, 0.2, 0.2 mm) so that it is located on top of the die, near one of its edges. Then, use the Thicken Sheet function to set its thickness to 5 microns (0.005 mm), accurately modeling the die pad's vertical height. (Process flow image given below)
+
 ![image](https://github.com/user-attachments/assets/164ee500-9a42-4c61-bde7-859100c778dd)
-Module 5.11: Dimensions of the diebondpad
+ Dimensions of the diebondpad
 ![image](https://github.com/user-attachments/assets/b6b15aec-c044-4c71-8563-b7d734c6ce82)
-Module 5.12: create Substrate bond pad
+
+Module 5.6: create Substrate bond pad
+
+Similarly, draw a small rectangle and configure its size to to that of the substrate bond pad (0.2mm x 0.2mm).
+We will place this Substrate Bind Pad at the co-ordinates (0.2, -0.7, -0.1) so that it sits aligned to the Die bond pad created in the previous step, and also on top of the substrate.
+
 ![image](https://github.com/user-attachments/assets/059ba35b-0f75-4820-a2e1-4b818925d53a)
-Module 5.13: attach wire bond
+
+Module 5.7: attach wire bond
+
+To create the bond wire, navigate to Draw → Bondwire and use the Bondwire tool. From the Top view orientation, draw a wire connecting the center of the Die Bond Pad (located at approximately (0.3, 0.3, 0.2025 mm), assuming half the die pad thickness) to the center of the Substrate Bond Pad directly below it. Select the JEDEC 4-point configuration as the bond wire type for accurate profile definition. Finally, assign Gold as the material for the bond wire from the Material Library to complete the setup.(Image Representation of the above process flow is attached below)
+
 ![image](https://github.com/user-attachments/assets/b778ff0d-cf14-4d6e-9560-2a75c2ebbacd)
-Module 5.14: Assign gold material to wire bond pad
+
+Assign gold material to wire bond pad
 ![image](https://github.com/user-attachments/assets/2273416a-ff35-4643-ba58-52e0057eae53)
-Module 5.15: Specify the wirebond properties
+
+Specify the wirebond properties
+
 ![image](https://github.com/user-attachments/assets/9cf506a0-f812-4ef0-b7a3-eeb30cabb1ff)
-Module 5.16: Create mold component with epoxy_kelvar material
+
+Module 5.8: Create mold component with epoxy_kelvar material
+
+To create the mold compound enclosure, draw a rectangle with dimensions 5 mm × 5 mm and position it at (-1, -1, -0.1 mm) so that it sits flush with the top surface of the substrate. Use the Thicken Sheet function to set the thickness to 1.2 mm, ensuring it fully encapsulates the die, bond wires, and die pads. This thickness provides sufficient coverage and mechanical protection, while allowing margin for laser marking and other post-molding operations. Assign Epoxy as the material to complete the enclosure definition. (Supportive Image given below)
+
 ![image](https://github.com/user-attachments/assets/b9217385-a35c-4479-84cf-0704cfabbbcc)
-Module 5.17: OUTPUT of the design
+
+Module 5.9: OUTPUT of the design
+
+The OUTPUT of the designed Package will be similar to the image given below
+
 ![image](https://github.com/user-attachments/assets/7ab67b2f-0051-4ec2-b4e7-c77d03bfea67)
 
 
