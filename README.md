@@ -407,6 +407,7 @@ Unlike traditional test methods that use synthetic input patterns, SLT involves 
 This type of testing helps detect subtle issues in hardware-software interaction, timing, and power behavior, offering a more comprehensive assessment of the IC’s functionality in its end-use scenario.
 
 4.4 Reliability and Performance Testing of Semiconductor Packages
+
 4.4.1 Burn-In and Final Test
 1. Burn-In Test
 Burn-in testing is a reliability screening technique where devices are operated under high stress conditions—including elevated temperatures, voltages, and active workloads—for an extended period.
@@ -418,6 +419,12 @@ Devices that fail during this phase are screened out, ensuring that only robust,
 
 ![image](https://github.com/user-attachments/assets/a9a6ff1b-fca3-42c5-9bfd-eb97a413a906)
 Module-4.5: Final Test
+
+The Final Test represents the concluding electrical validation stage for a semiconductor device after it has been fully packaged.
+This phase ensures the packaged IC complies with all specified functional, parametric, and performance criteria outlined in its datasheet.
+The purpose is to confirm that the device operates reliably under a range of operating conditions, and that no defects were introduced during the packaging process.
+Final testing is generally conducted at OSAT facilities or by in-house test teams within Integrated Device Manufacturers (IDMs), prior to product shipment.
+
 ![image](https://github.com/user-attachments/assets/bce0aaa8-e315-4074-ab94-74c869db4825)
 Module-4.6: Summary
 ![image](https://github.com/user-attachments/assets/53af1123-b849-4393-856e-390553388928)
