@@ -43,9 +43,43 @@ Both the cost of the package itself and the associated board or system-level ass
 Reliability and Durability
 The package must withstand mechanical stress, thermal cycling, and exposure to moisture or other environmental challenges to ensure long-term performance.
 
-
 Module-1.5: Typical package structure
+The following figure below shows the structure of a typical chip package
 ![image](https://github.com/user-attachments/assets/d1869df5-9243-4c72-bfd2-89eb76cb6204)
+An IC package is made up of several essential components, each serving a critical function:
+Die
+The core semiconductor chip that contains the integrated circuitry.
+Substrate or Carrier
+A structural platform that the die is mounted on, offering mechanical support and electrical routing between the die and the system board.
+Die-to-Substrate Connections
+The electrical links between the die and substrate are typically formed using bond wires or solder bumps.
+Substrate-to-Board Interconnections
+The substrate connects to the printed circuit board (PCB) using various methods such as pins, leads, solder balls, or lands, facilitating integration into the final product.
+Encapsulation (Mold Compound)
+The assembly is enclosed in a protective compound, usually made from epoxy or plastic, to guard against moisture, contaminants, and physical impact.
+Mounting Technologies
+IC packages are categorized based on how they are mounted onto PCBs:
+Through-Hole Mounting Packages
+TO (Transistor Outline)
+SIP (Single In-line Package)
+DIP (Dual In-line Package)
+PGA (Pin Grid Array)
+Surface Mount Technology (SMT) Packages
+(T)SOT (Thin Small Outline Transistor)
+(T)SOP (Thin Small Outline Package)
+SOIC (Small Outline Integrated Circuit)
+QFN (Quad Flat No-Lead)
+QFP (Quad Flat Package)
+PBGA (Plastic Ball Grid Array)
+LGA (Land Grid Array)
+FCBGA (Flip Chip Ball Grid Array)
+CSP (Chip-Scale Package)
+Advanced Packaging Solutions
+Modern systems often require more complex and integrated packaging techniques:
+PoP (Package on Package) – Used in mobile SoCs (e.g., Qualcomm Snapdragon, Apple A-series, Samsung Exynos).
+MCM (Multi-Chip Module) – Combines multiple dies (e.g., Intel Broadwell).
+SiP (System-in-Package) – Integrates various components into one package (e.g., Apple S1).
+CoWoS (Chip-on-Wafer-on-Substrate) – A high-performance interposer-based approach (e.g., Nvidia GP100, GV100, GA100).
 Module-1.6: Anatomy of Packages (Different types of Packages)
 ![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
 Module-1.7: Semiconductor Packages Classifications
