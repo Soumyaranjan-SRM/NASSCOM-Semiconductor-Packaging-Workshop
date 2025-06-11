@@ -291,6 +291,7 @@ Module-2.7: After Cleanroom Area Process
 Module-3:  Thermal Analysis of Semiconductor Packages Using ANSYS
 
 Module-3.1: Launching ICEpack design module
+Launch ICEpack design module by selecting the ICEpack design
 ![image](https://github.com/user-attachments/assets/1f878195-391b-4841-a90d-af2b1e02abdc)
 Module-3.2: Analyze the 3-D structure
 ![image](https://github.com/user-attachments/assets/50f50c60-9fa4-4de2-8d59-85034ef36ff0)
