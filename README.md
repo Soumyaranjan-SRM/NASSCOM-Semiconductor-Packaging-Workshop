@@ -313,7 +313,10 @@ Set the thermal condition on the substrate to Fixed Temperatue and the temperatu
 Module-3.4: Assign Temperature monitor for DIE, Substrate, DIE-Attach
 
 To add a Thermal monitor to the substrate, right click on the Flipchip_BGA1_substrate under Models -> Flipchip_BGA1_Group -> Solids and then choose Assign Monitor -> Point.In the sub-window that appears, select Temperature
-Repeat the same to add thermal monitors for the die and the die-underfill.
+Repeat the same to add thermal monitors for the die and the die-underfill. (image description of the above flow)
+
+![image](https://github.com/user-attachments/assets/04f6536f-f4ca-4631-9374-6f82f1e64632)
+
 ![image](https://github.com/user-attachments/assets/a188ad1d-ab30-4cbf-9afe-30fd8d57660a)
 Module-3.5: analyze the number of mesh nodes generated
 ![image](https://github.com/user-attachments/assets/114b49a6-3995-4f55-8912-9ee198aa7fc1)
