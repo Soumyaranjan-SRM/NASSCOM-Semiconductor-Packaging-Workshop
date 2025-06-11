@@ -83,7 +83,9 @@ PoP (Package on Package) – Used in mobile SoCs (e.g., Qualcomm Snapdragon, App
 MCM (Multi-Chip Module) – Combines multiple dies (e.g., Intel Broadwell).
 SiP (System-in-Package) – Integrates various components into one package (e.g., Apple S1).
 CoWoS (Chip-on-Wafer-on-Substrate) – A high-performance interposer-based approach (e.g., Nvidia GP100, GV100, GA100).
+
 Module-1.6: Anatomy of Packages (Different types of Packages)
+The below figure shows the anatomy of some of the commonly used leadframe and laminate based packages and advanced substrates:
 ![image](https://github.com/user-attachments/assets/144450b6-5811-4e08-bec6-88ad86c28b08)
 Module-1.7: Semiconductor Packages Classifications
 ![image](https://github.com/user-attachments/assets/c379e57d-ad7b-42de-8cd9-65d74fae8393)
