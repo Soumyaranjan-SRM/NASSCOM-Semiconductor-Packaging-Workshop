@@ -399,6 +399,23 @@ Final Electrical Testing: Measures the device’s electrical behavior under vari
 Module-4.3: Assembly Open and Short Test
 ![image](https://github.com/user-attachments/assets/37b57122-bd24-4344-8d42-4b7a207b6a9b)
 Module-4.4: Burn-in Test
+
+System-Level Testing evaluates how a semiconductor device performs when operated in an environment that closely replicates real-world conditions.
+
+Unlike traditional test methods that use synthetic input patterns, SLT involves running the actual software or firmware the chip is designed to handle.
+
+This type of testing helps detect subtle issues in hardware-software interaction, timing, and power behavior, offering a more comprehensive assessment of the IC’s functionality in its end-use scenario.
+
+4.4 Reliability and Performance Testing of Semiconductor Packages
+4.4.1 Burn-In and Final Test
+1. Burn-In Test
+Burn-in testing is a reliability screening technique where devices are operated under high stress conditions—including elevated temperatures, voltages, and active workloads—for an extended period.
+
+The goal is to accelerate aging effects and surface any early-life reliability issues (often referred to as "infant mortality").
+
+Devices that fail during this phase are screened out, ensuring that only robust, field-ready ICs proceed to final test or shipment.
+
+
 ![image](https://github.com/user-attachments/assets/a9a6ff1b-fca3-42c5-9bfd-eb97a413a906)
 Module-4.5: Final Test
 ![image](https://github.com/user-attachments/assets/bce0aaa8-e315-4074-ab94-74c869db4825)
